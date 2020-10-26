@@ -1,1 +1,2 @@
-info: "恭喜发财"
+config
+  info: "master branch, springcloud-config dev version =1 "
